@@ -1,6 +1,6 @@
 """Creates an interactive plot of energy eigenvalues (less than the potential) of a particle in a finite square well.
 
-usage: python3 well.py <potential> <size> <mass>
+usage: python3 finite_well.py <potential> <size> <mass>
 
 Arguments
 ---------
